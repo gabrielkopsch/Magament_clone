@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: aa899a514f0292e4b826051aae06fe3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1879298381111641141
+    second: Jumping Shooting_0
+  - first:
+      213: -7113523496090889874
+    second: Jumping Shooting_1
+  - first:
+      213: 7649708658620727945
+    second: Jumping Shooting_2
+  - first:
+      213: -6728802532197777316
+    second: Jumping Shooting_3
+  - first:
+      213: 8975235761430661824
+    second: Jumping Shooting_4
+  - first:
+      213: 5052241191597304431
+    second: Jumping Shooting_5
+  - first:
+      213: -5926765412045950107
+    second: Jumping Shooting_6
+  - first:
+      213: -7710510352257324652
+    second: Jumping Shooting_7
+  - first:
+      213: -3501055467715709438
+    second: Jumping Shooting_8
+  - first:
+      213: -4906294309271398248
+    second: Jumping Shooting_9
+  - first:
+      213: -5506178167216309919
+    second: Jumping Shooting_10
+  - first:
+      213: -7109903216574697010
+    second: Jumping Shooting_11
+  - first:
+      213: -3499942839763674638
+    second: Jumping Shooting_12
+  - first:
+      213: -4727759617550482491
+    second: Jumping Shooting_13
+  - first:
+      213: 3860388430910257394
+    second: Jumping Shooting_14
+  - first:
+      213: -1190828097784744224
+    second: Jumping Shooting_15
+  - first:
+      213: -7216600768459584133
+    second: Jumping Shooting_16
+  - first:
+      213: -4681040430745119112
+    second: Jumping Shooting_17
+  - first:
+      213: 1449793883738681634
+    second: Jumping Shooting_18
+  - first:
+      213: -9209694439372883270
+    second: Jumping Shooting_19
+  - first:
+      213: -6406590198318833971
+    second: Jumping Shooting_20
+  - first:
+      213: 6430143391371126264
+    second: Jumping Shooting_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 44
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jumping Shooting_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 74
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbbfde44146be5e0800000000000000
+      internalID: -1879298381111641141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 74
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e619b12c110b74d90800000000000000
+      internalID: -7113523496090889874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 71
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9828150ce79392a60800000000000000
+      internalID: 7649708658620727945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 71
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c504a986fbd7e92a0800000000000000
+      internalID: -6728802532197777316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 68
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca05774f517e8c70800000000000000
+      internalID: 8975235761430661824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 68
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ae0c8889a2d1640800000000000000
+      internalID: 5052241191597304431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 67
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563fde35246efbda0800000000000000
+      internalID: -5926765412045950107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 67
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499eab8cfa3cef490800000000000000
+      internalID: -7710510352257324652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 69
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206bddbf990c96fc0800000000000000
+      internalID: -3501055467715709438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 70
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8989b54025759ebb0800000000000000
+      internalID: -4906294309271398248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 71
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1697f0141202693b0800000000000000
+      internalID: -5506178167216309919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 71
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec178a4c1bc845d90800000000000000
+      internalID: -7109903216574697010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9d6bdd784bd6fc0800000000000000
+      internalID: -3499942839763674638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c387743daf936eb0800000000000000
+      internalID: -4727759617550482491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8fe6f13dad29530800000000000000
+      internalID: 3860388430910257394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e67cf28724597fe0800000000000000
+      internalID: -1190828097784744224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc72616db79db90800000000000000
+      internalID: -7216600768459584133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876123a878a990fb0800000000000000
+      internalID: -4681040430745119112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22137cd1bd3be1410800000000000000
+      internalID: 1449793883738681634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf943d3b7903080800000000000000
+      internalID: -9209694439372883270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_20
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 6
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced4bf78283717a0800000000000000
+      internalID: -6406590198318833971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping Shooting_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 6
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5608998557c3950800000000000000
+      internalID: 6430143391371126264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jumping Shooting_0: -1879298381111641141
+      Jumping Shooting_1: -7113523496090889874
+      Jumping Shooting_10: -5506178167216309919
+      Jumping Shooting_11: -7109903216574697010
+      Jumping Shooting_12: -3499942839763674638
+      Jumping Shooting_13: -4727759617550482491
+      Jumping Shooting_14: 3860388430910257394
+      Jumping Shooting_15: -1190828097784744224
+      Jumping Shooting_16: -7216600768459584133
+      Jumping Shooting_17: -4681040430745119112
+      Jumping Shooting_18: 1449793883738681634
+      Jumping Shooting_19: -9209694439372883270
+      Jumping Shooting_2: 7649708658620727945
+      Jumping Shooting_20: -6406590198318833971
+      Jumping Shooting_21: 6430143391371126264
+      Jumping Shooting_3: -6728802532197777316
+      Jumping Shooting_4: 8975235761430661824
+      Jumping Shooting_5: 5052241191597304431
+      Jumping Shooting_6: -5926765412045950107
+      Jumping Shooting_7: -7710510352257324652
+      Jumping Shooting_8: -3501055467715709438
+      Jumping Shooting_9: -4906294309271398248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

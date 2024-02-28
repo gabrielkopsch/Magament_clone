@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: c3e84e930d0b3a14ca203339877b76cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2372949071832820982
+    second: Dieing_0
+  - first:
+      213: -3374224560212129789
+    second: Dieing_1
+  - first:
+      213: 1598340508090190811
+    second: Dieing_3
+  - first:
+      213: -436329763356557000
+    second: Dieing_4
+  - first:
+      213: 7277117827708328070
+    second: Dieing_5
+  - first:
+      213: -5991375790954299802
+    second: Dieing_6
+  - first:
+      213: -1145440813869834579
+    second: Dieing_7
+  - first:
+      213: 7516899327339455191
+    second: Dieing_8
+  - first:
+      213: 3930743059710765880
+    second: Dieing_9
+  - first:
+      213: -7201688378999211599
+    second: Dieing_10
+  - first:
+      213: -1185295369704272044
+    second: Dieing_17
+  - first:
+      213: -4598862700095085203
+    second: Dieing_14
+  - first:
+      213: -2316425055838087669
+    second: Dieing_15
+  - first:
+      213: -6724419180366229624
+    second: Dieing_16
+  - first:
+      213: 8976697970073052299
+    second: Dieing_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 44
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dieing_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 70
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03df4f3467911fd0800000000000000
+      internalID: -2372949071832820982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 70
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3084820d3a85c21d0800000000000000
+      internalID: -3374224560212129789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 70
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb45d649327e2610800000000000000
+      internalID: 1598340508090190811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 66
+        width: 35
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.057692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831c33a5468d1f9f0800000000000000
+      internalID: -436329763356557000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 71
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6889735cb148df460800000000000000
+      internalID: 7277117827708328070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 71
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e3b48367b5adca0800000000000000
+      internalID: -5991375790954299802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 71
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daedd0a06a39a10f0800000000000000
+      internalID: -1145440813869834579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 71
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2e07aac14615860800000000000000
+      internalID: 7516899327339455191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 71
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6461acfdcc8630800000000000000
+      internalID: 3930743059710765880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 71
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b971b253967e0c90800000000000000
+      internalID: -7201688378999211599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 4
+        width: 44
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5568182, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8cd6242cfc8fe0800000000000000
+      internalID: -1185295369704272044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65e9067dbe8d20c0800000000000000
+      internalID: -4598862700095085203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06d4f54fa76adfd0800000000000000
+      internalID: -2316425055838087669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f827902601ea2a0800000000000000
+      internalID: -6724419180366229624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dieing_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5
+        width: 46
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5543478, y: 0.15254237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ac224e33a39c70800000000000000
+      internalID: 8976697970073052299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dieing_0: -2372949071832820982
+      Dieing_1: -3374224560212129789
+      Dieing_10: -7201688378999211599
+      Dieing_14: -4598862700095085203
+      Dieing_15: -2316425055838087669
+      Dieing_16: -6724419180366229624
+      Dieing_17: -1185295369704272044
+      Dieing_18: 8976697970073052299
+      Dieing_3: 1598340508090190811
+      Dieing_4: -436329763356557000
+      Dieing_5: 7277117827708328070
+      Dieing_6: -5991375790954299802
+      Dieing_7: -1145440813869834579
+      Dieing_8: 7516899327339455191
+      Dieing_9: 3930743059710765880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
