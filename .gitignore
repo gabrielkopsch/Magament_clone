@@ -1,1 +1,6 @@
-Library/
+[Ll]ibrary/
+[Tt]emp/
+Logs/
+Build/
+.vs/
+*.meta
